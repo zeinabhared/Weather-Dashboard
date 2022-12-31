@@ -17,5 +17,5 @@ The following animation shows the web application's appearance and functionality
 
 ![Animation of Weather Dashboard Application](./assets/images%20/weather-app.gif)
 
-Link to deployed application: https://zeinabhared.github.io/weather-dashboard-/
+Link to deployed application: https://zeinabhared.github.io/Weather-Dashboard/
 
